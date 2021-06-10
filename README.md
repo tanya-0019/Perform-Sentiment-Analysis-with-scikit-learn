@@ -1,1 +1,1 @@
-# Perform-Sentiment-Analysis-with-scikit-learn
+In this project, a logistic regression model is built to classify movie reviews as either positive or negative. IMDB data set is used for this purpose. A logistic regression estimator is used from scikit-learn for document classification.
